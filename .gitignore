@@ -1,0 +1,4 @@
+server-reference/.env
+server-reference/firebase-service-account.json
+.env
+firebase-service-account.json
