@@ -9,7 +9,7 @@ A comprehensive IoT solution for agricultural monitoring that bridges ESP32 devi
 - **Multi-sensor Data Collection**: pH, soil moisture, temperature, humidity, and gas concentration
 - **Live Dashboard**: Real-time charts and analytics with automatic updates
 - **Section Management**: Monitor up to 4 different agricultural sections simultaneously
-- **Vegetation Recommendations**: AI-powered plant suggestions based on current soil conditions
+- **Soil-Based Crop Recommendation**: AI model that interprets soil data to determine crop suitability — optimized for tomato cultivation in this version.
 
 ### IoT Integration
 - **MQTT Communication**: Seamless device-to-dashboard communication
