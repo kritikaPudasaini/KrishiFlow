@@ -23,4 +23,4 @@ A comprehensive IoT solution for agricultural monitoring that bridges ESP32 devi
 - **Real-time Status**: Live connection monitoring and system health indicators
 - **Manual Override**: Direct control panel for manual system operations
 
-                                └─────────────────┘
+
