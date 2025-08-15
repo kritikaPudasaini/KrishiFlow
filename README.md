@@ -17,10 +17,5 @@ A comprehensive IoT solution for agricultural monitoring that bridges ESP32 devi
 - **ESP32 Support**: Optimized for ESP32-based sensor nodes and control devices
 - **Automated Controls**: Smart irrigation and robotic car coordination
 
-### Modern Web Interface
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
-- **Interactive Charts**: 24-hour trend analysis with multiple data views
-- **Real-time Status**: Live connection monitoring and system health indicators
-- **Manual Override**: Direct control panel for manual system operations
 
 
